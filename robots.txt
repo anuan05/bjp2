@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://mail.sjackman.ca/sitemap.xml
